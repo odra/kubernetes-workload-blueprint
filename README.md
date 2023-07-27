@@ -10,6 +10,14 @@ in a [edge] vehicle device.
 Kubernetes resource definitions are well stablished within the cloud industry and not only provide an API
 to define containerized workloads but also allow applications to mount configuration files and so on.
 
+<div align="center">
+    <img
+        src="./_static/images/arch.png"
+        title="High level architecture diagram"
+        alt="High level architecture diagram"
+    />
+</div>
+
 ## Capabilities
 
 ### Deployability
