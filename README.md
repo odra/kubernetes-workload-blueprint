@@ -29,7 +29,7 @@ the same YAML source to deploy the same application or service:
 * Deploy using orchestrators and runtimes that support Kubernetes YAML APIs, including cloud digital twins;
 * Easily test it locally using a local kubenetes "cluster" such as Minikube or container managers.
 
-### Testeability
+### Testability
 
 Using a static and declarative format allows tools to both assert and verify if a workload was properly deployed
 by reading the YAML file and comparing it against any runtime that supports sourcing workload defintions from
